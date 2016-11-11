@@ -1,7 +1,7 @@
 #DevFestSP '16
 *Programando com Swagger e Go (API development with Swagger)*
 
-In this sample was used as example an instagram api that comes within Swagger sample folder.
+In this sample was used as example an instagram api that comes within Swagger's sample folder.
 The following code written in Go was generated using [Mercurius](https://github.com/novatrixtech/mercurius)
 
 # Go API Server for 
